@@ -4,6 +4,8 @@
 
 `` Typescript, Tailwind CSS ``
 
+``` Solidity ```
+
 ## React Version: 18.2
 
 ### `NPM RUN START`
